@@ -1,6 +1,5 @@
 # Input Buffering Implementation in Godot Engine
 
-![Input Buffering Godot Thumbnail](Godot%20Jump%20Buffering.png)
 
 ## Project Description
 
@@ -10,7 +9,7 @@ This repository contains the example Godot Engine project for implementing **"In
 
 This code accompanies the tutorial video on my YouTube channel, providing a step-by-step guide to this implementation:
 
-[**WATCH THE TUTORIAL HERE**](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[**WATCH THE TUTORIAL HERE**](https://www.youtube.com/watch?v=J4KGrfCWpmM)
 
 *The tutorial is in Tamil (தமிழில்).*
 
