@@ -1,5 +1,6 @@
 # Input Buffering Implementation in Godot Engine
 
+![Input Buffering Godot Thumbnail]
 
 ## Project Description
 
