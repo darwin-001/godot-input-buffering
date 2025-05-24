@@ -1,6 +1,6 @@
 # Input Buffering Implementation in Godot Engine
 
-[Input Buffering Godot Thumbnail](Godot Jump Buffering.png)
+![Input Buffering Godot Thumbnail](https://github.com/darwin-001/godot-input-buffering/blob/edcacef23c6e96427607656e5651b68bffd1f03c/Godot%20Jump%20Buffering.png)
 
 ## Project Description
 
