@@ -1,6 +1,6 @@
 # Input Buffering Implementation in Godot Engine
 
-![Input Buffering Godot Thumbnail](Godot Jump Buffering.png)
+[Input Buffering Godot Thumbnail](Godot Jump Buffering.png)
 
 ## Project Description
 
