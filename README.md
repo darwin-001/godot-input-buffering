@@ -10,7 +10,7 @@ This repository contains the example Godot Engine project for implementing **"In
 
 This code accompanies the tutorial video on my YouTube channel, providing a step-by-step guide to this implementation:
 
-[**WATCH THE TUTORIAL HERE**](https://www.youtube.com/watch?v=J4KGrfCWpmM)
+[**WATCH THE TUTORIAL HERE**]([https://www.youtube.com/watch?v=J4KGrfCWpmM](https://youtu.be/J4KGrfCWpmM?si=Y0uGG3EEfL7J81GZ))
 
 *The tutorial is in Tamil (தமிழில்).*
 
